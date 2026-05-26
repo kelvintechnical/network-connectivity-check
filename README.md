@@ -1,11 +1,11 @@
 # Lab: Check Network Connectivity with `ping` and `traceroute`
 
-**Series:** linux-ops-mastery — RHCSA Networking
-**Subjects covered:** ICMP echo requests (`ping`), round-trip latency and loss, `ping -c` count limits, IPv4 vs IPv6 selection, `traceroute` TTL-expiry path discovery, asymmetric paths, installing `traceroute` on minimal RHEL installs
-**Career arcs covered:** RHCSA (basic connectivity proof on EX200), RHCE (pre-flight checks in playbooks), SRE (first 60 seconds of "site down"), DevOps (CI runner cannot reach artifact server), AI/MLOps (distributed training job stuck on rank-0 NFS mount)
-**Prerequisite:** Working default route and DNS (Labs 31 or 35); outbound ICMP not blocked by security policy
-**Time Estimate:** 30 to 45 minutes
-**Difficulty arc:** Task 1 foundation · 2–3 `ping` patterns · 4–5 `traceroute` interpretation · 6 exam-realistic capstone
+- **Series:** linux-ops-mastery — RHCSA Networking
+- **Subjects covered:** ICMP echo requests (`ping`), round-trip latency and loss, `ping -c` count limits, IPv4 vs IPv6 selection, `traceroute` TTL-expiry path discovery, asymmetric paths, installing `traceroute` on minimal RHEL installs
+- **Career arcs covered:** RHCSA (basic connectivity proof on EX200), RHCE (pre-flight checks in playbooks), SRE (first 60 seconds of "site down"), DevOps (CI runner cannot reach artifact server), AI/MLOps (distributed training job stuck on rank-0 NFS mount)
+- **Prerequisite:** Working default route and DNS (Labs 31 or 35); outbound ICMP not blocked by security policy
+- **Time Estimate:** 30 to 45 minutes
+- **Difficulty arc:** Task 1 foundation · 2–3 `ping` patterns · 4–5 `traceroute` interpretation · 6 exam-realistic capstone
 
 ---
 
